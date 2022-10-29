@@ -25,6 +25,7 @@ public class TesteFilmes {
         
         filme1.exibirDuracaoEmHoras();
         filme2.exibirDuracaoEmHoras();
+        filme3.exibirDuracaoEmHoras();
     }
     
 }
